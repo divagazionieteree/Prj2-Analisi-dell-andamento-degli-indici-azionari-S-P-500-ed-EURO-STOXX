@@ -1,0 +1,1 @@
+# Prj2-Analisi-dell-andamento-degli-indici-azionari-S-P-500-ed-EURO-STOXX
